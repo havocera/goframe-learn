@@ -1,5 +1,5 @@
 # goframe框架说明文档
-
+## 根目录的sql文件为对应学习数据库
 ## goframe创建
 
 ```shell
